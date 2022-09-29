@@ -1,1 +1,3 @@
 Esto es un ejemplo para control de versiones.
+
+Diseño visual.
